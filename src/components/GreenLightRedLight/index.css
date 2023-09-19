@@ -1,0 +1,70 @@
+.main-bg{
+    background-color: #6883bc;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Bree Serif";
+}
+.card-div{
+    background-color: #79cbb8;
+    border-radius: 10px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.heading{
+    text-align: center;
+}
+.label-input{
+    display: flex;
+    flex-direction: column;
+}
+.label{
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+.input{
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    margin-bottom: 8px;
+    padding-left: 5px;
+}
+.enter-button{
+    background-color: #6883bc;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    height: 30px;
+    margin-top: 15px;
+    align-self: center;
+}
+.box-div{
+    background-color: #79cbb8;
+}
+.content-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.score-para{
+    margin-bottom: 50px;
+}
+.name{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+@media screen and (max-width: 700px) {
+    .name{
+       font-size: 30px; 
+    }
+    .score-para{
+        font-size: 20px;
+    }
+    .heading{
+        font-size: 20px;
+    }
+}
