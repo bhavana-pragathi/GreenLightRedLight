@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GreenLightRedLight/static/css/main.eee84256.css",
+    "main.js": "/GreenLightRedLight/static/js/main.c6134748.js",
+    "index.html": "/GreenLightRedLight/index.html",
+    "main.eee84256.css.map": "/GreenLightRedLight/static/css/main.eee84256.css.map",
+    "main.c6134748.js.map": "/GreenLightRedLight/static/js/main.c6134748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee84256.css",
+    "static/js/main.c6134748.js"
+  ]
+}
